@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="899" height="329" rx="12" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<text x="28.0" y="38.0" fill="#0b0b0b" font-size="17" font-weight="650" text-anchor="start" >Per-class precision, recall and F1</text>
+<text x="28.0" y="60.0" fill="#52514e" font-size="13" font-weight="400" text-anchor="start" >Axis starts at 75% to separate the dots</text>
+<circle cx="570" cy="44" r="5" fill="#2a78d6"/>
+<text x="581.0" y="48.0" fill="#52514e" font-size="13" font-weight="400" text-anchor="start" >Precision</text>
+<circle cx="675" cy="44" r="5" fill="#eb6834"/>
+<text x="686.0" y="48.0" fill="#52514e" font-size="13" font-weight="400" text-anchor="start" >Recall</text>
+<circle cx="780" cy="44" r="5" fill="#1baf7a"/>
+<text x="791.0" y="48.0" fill="#52514e" font-size="13" font-weight="400" text-anchor="start" >F1</text>
+<line x1="200.0" y1="94" x2="200.0" y2="278" stroke="#e1e0d9" stroke-width="1"/>
+<text x="200.0" y="298.0" fill="#898781" font-size="11.5" font-weight="400" text-anchor="middle" >75%</text>
+<line x1="332.0" y1="94" x2="332.0" y2="278" stroke="#e1e0d9" stroke-width="1"/>
+<text x="332.0" y="298.0" fill="#898781" font-size="11.5" font-weight="400" text-anchor="middle" >80%</text>
+<line x1="464.0" y1="94" x2="464.0" y2="278" stroke="#e1e0d9" stroke-width="1"/>
+<text x="464.0" y="298.0" fill="#898781" font-size="11.5" font-weight="400" text-anchor="middle" >85%</text>
+<line x1="596.0" y1="94" x2="596.0" y2="278" stroke="#e1e0d9" stroke-width="1"/>
+<text x="596.0" y="298.0" fill="#898781" font-size="11.5" font-weight="400" text-anchor="middle" >90%</text>
+<line x1="728.0" y1="94" x2="728.0" y2="278" stroke="#e1e0d9" stroke-width="1"/>
+<text x="728.0" y="298.0" fill="#898781" font-size="11.5" font-weight="400" text-anchor="middle" >95%</text>
+<line x1="860.0" y1="94" x2="860.0" y2="278" stroke="#e1e0d9" stroke-width="1"/>
+<text x="860.0" y="298.0" fill="#898781" font-size="11.5" font-weight="400" text-anchor="middle" >100%</text>
+<text x="184.0" y="116.0" fill="#52514e" font-size="12.5" font-weight="600" text-anchor="end" >Crown and Root Rot</text>
+<line x1="528.7" y1="112" x2="632.8" y2="112" stroke="#c3c2b7" stroke-width="2" stroke-linecap="round"/>
+<circle cx="632.8" cy="112" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="528.7" cy="112" r="6" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="579.6" cy="112" r="6" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="184.0" y="162.0" fill="#52514e" font-size="12.5" font-weight="600" text-anchor="end" >Healthy Wheat</text>
+<line x1="370.5" y1="158" x2="693.8" y2="158" stroke="#c3c2b7" stroke-width="2" stroke-linecap="round"/>
+<circle cx="370.5" cy="158" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="358.5" y="162.0" fill="#0b0b0b" font-size="12" font-weight="600" text-anchor="end" >lowest precision 81.5%</text>
+<circle cx="693.8" cy="158" r="6" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="520.9" cy="158" r="6" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="184.0" y="208.0" fill="#52514e" font-size="12.5" font-weight="600" text-anchor="end" >Leaf Rust</text>
+<line x1="618.4" y1="204" x2="658.3" y2="204" stroke="#c3c2b7" stroke-width="2" stroke-linecap="round"/>
+<circle cx="658.3" cy="204" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="618.4" cy="204" r="6" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="638.2" cy="204" r="6" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="184.0" y="254.0" fill="#52514e" font-size="12.5" font-weight="600" text-anchor="end" >Wheat Loose Smut</text>
+<line x1="350.1" y1="250" x2="629.3" y2="250" stroke="#c3c2b7" stroke-width="2" stroke-linecap="round"/>
+<circle cx="629.3" cy="250" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="350.1" cy="250" r="6" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<text x="338.1" y="254.0" fill="#0b0b0b" font-size="12" font-weight="600" text-anchor="end" >lowest recall 80.7%</text>
+<circle cx="481.1" cy="250" r="6" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+</svg>
